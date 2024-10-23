@@ -48,7 +48,7 @@ export function NavBar() {
 
       {/* Right side: Logout button */}
       <div>
-        <button className="bg-gray-800 text-white py-2 px-4 rounded">
+        <button className="bg-gray-700 text-white py-2 px-4 rounded">
           Logout
         </button>
       </div>
